@@ -1,67 +1,30 @@
-```md
-# 💫 Hi 👋, I'm Zainul Abideen
-💻 Computer Science Student | Aspiring Software Developer | Tech Enthusiast
+```md id="p8x3mn"
+<h1>👋 Hi, I'm Zainul Abideen</h1>
 
-Passionate about programming, problem-solving, and continuously learning new technologies.  
-Currently building a strong foundation in software development and programming concepts.
+<p>
+💻 A passionate Computer Science Student
+</p>
 
----
+<p>
+Learning programming, software development, and modern technologies.
+</p>
 
-## 🚀 About Me
+<p>
+📧 Email Me 👉 your-email@example.com
+</p>
 
-- 🎓 I am a Computer Science student
-- 📚 Successfully completed two semesters
-- 💡 Learned Programming Fundamentals and Object-Oriented Programming using C++
-- 🐍 Learned basics of Python programming
-- 🗄️ Learned SQL language using MySQL
-- 🌱 Currently improving my skills in C++, Python, SQL, and problem solving
-- 🤝 Interested in collaboration on learning and beginner-friendly projects
-- ⚡ Always eager to learn new technologies and enhance my development skills
-
----
-
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming Languages
-- C++
-- Python
-- SQL
-
-### 🗄️ Database
-- MySQL
-
-### 📘 Core Concepts
-- Programming Fundamentals
-- Object-Oriented Programming (OOP)
-- Database Basics
-- Problem Solving
-- Basic Software Development
-
----
-
-## 📈 Currently Learning
-
-- Advanced C++
-- Python Development
-- Data Structures & Algorithms
-- Database Design
-- Git & GitHub
-
----
-
-## 📫 Contact Me
-
-- ✉️ Email: izain1.edu@gmail.com
-
-
----
-
-## 🌟 Career Objective
-
-To become a skilled software developer by continuously learning, building projects, and gaining practical experience in software engineering and modern technologies.
-
-⭐ *"Consistency and continuous learning are the keys to success in technology."*
+<ul>
+  <li>🌱 Currently learning: C++, Python & SQL</li>
+  <li>📚 Completed Programming Fundamentals & OOP</li>
+  <li>🗄️ Basic knowledge of MySQL</li>
+  <li>🤝 Interested in collaboration on beginner projects</li>
+  <li>💬 Ask me about: C++, Python & Programming Basics</li>
+  <li>⚡ Fun fact: I love learning new technologies</li>
+</ul>
 ```
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zaincsstudentdevops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

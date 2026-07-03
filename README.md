@@ -1,27 +1,14 @@
-```md id="p8x3mn"
-<h1>👋 Hi, I'm Zainul Abideen</h1>
+# 💫 Hi 👋, I'm Zainul Abideen
+**A passionate Computer Science Student from Pakistan**
 
-<p>
-💻 A passionate Computer Science Student
-</p>
+Email Me 👉 ✉️ **izain1.edu@gmail.com** For Collaboration or Learning Opportunities 😊
 
-<p>
-Learning programming, software development, and modern technologies.
-</p>
-
-<p>
-📧 Email Me 👉 your-email@example.com
-</p>
-
-<ul>
-  <li>🌱 Currently learning: C++, Python & SQL</li>
-  <li>📚 Completed Programming Fundamentals & OOP</li>
-  <li>🗄️ Basic knowledge of MySQL</li>
-  <li>🤝 Interested in collaboration on beginner projects</li>
-  <li>💬 Ask me about: C++, Python & Programming Basics</li>
-  <li>⚡ Fun fact: I love learning new technologies</li>
-</ul>
-```
+- 🌱 **I’m currently learning:** C++, Python & SQL
+- 📚 **Completed:** Programming Fundamentals & OOP
+- 🗄️ **Database knowledge:** MySQL Basics
+- 👯 **I’m looking to collaborate on:** Beginner Projects
+- 💬 **Ask me about:** C++, Python & Programming Basics
+- ⚡ **Fun fact:** I love learning new technologies
 
 
 

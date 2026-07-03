@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Zainul Abideen
+# 💫 Hi 👋, I'm Zain ul Abideen
 **A passionate Computer Science Student from Pakistan**
 
 Email Me 👉 ✉️ **izain1.edu@gmail.com** For Collaboration or Learning Opportunities 😊
